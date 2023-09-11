@@ -1,7 +1,7 @@
 {
-  "name": "cool-functions",
+  "name": "dice-utilities",
   "version": "1.0.0",
-  "description": "A set of cool functions",
+  "description": "A set of dice, dice-related, and RNG utilities",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
