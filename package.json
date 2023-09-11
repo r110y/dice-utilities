@@ -1,0 +1,19 @@
+{
+  "name": "cool-functions",
+  "version": "1.0.0",
+  "description": "A set of cool functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r110y/cool-functions.git"
+  },
+  "author": "Rhys Lloyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r110y/cool-functions/issues"
+  },
+  "homepage": "https://github.com/r110y/cool-functions#readme"
+}
